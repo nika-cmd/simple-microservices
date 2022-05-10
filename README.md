@@ -1,5 +1,5 @@
 # simple-microservices
-Simple client-server program with some three micro services.
+Simple client-server program with some three micro services. (From a class assignment)
 
 ### how to use
 Check user manual for instructions for how to run program.
