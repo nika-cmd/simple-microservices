@@ -1,5 +1,6 @@
 # simple-microservices
 Simple client-server program with some three micro services. Uses TCP and UDP connections.
+__*Note:*__ *ran on Linux machine* <br>
 
 ## How to use
 Check user manual for instructions for how to run program.
