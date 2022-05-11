@@ -1,5 +1,5 @@
 # simple-microservices
-Simple client-server program with some three micro services. (From a class assignment)
+Simple client-server program with some three micro services. Uses TCP and UDP connections. (From a class assignment)
 
 ## How to use
 Check user manual for instructions for how to run program.
